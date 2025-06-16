@@ -1,0 +1,13 @@
+{
+  "name": "habib-abdillah/adminlte-resources",
+  "description": "AdminLTE dist and plugins",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "AdminLTE\\Resources\\": "./"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
